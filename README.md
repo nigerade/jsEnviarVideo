@@ -11,6 +11,8 @@ AluraPlay - Plataforma de Enviar Vídeos
 <p align="center">
   <img style="border:2px solid black" alt="Imagem Principal" src="/img/IMG1.png" width="100%">
 
+  ---
+
   <img style="border:2px solid black" alt="Imagem Secudária" src="/img/IMG2.png" width="100%">
 </p>
 
