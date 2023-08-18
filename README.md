@@ -48,6 +48,9 @@ A
 
 6. json-server --watch db.json
 
-Você pode ver o site neste link: [Javascript - Enviar Vídeo]()
+Você pode ver o site neste link: [Javascript - Enviar Vídeo](https://nigerade.github.io/jsEnviarVideo/)
+
+Porém, não irá conseguir ver os vídeo que já enviei, apenas fazendo o teste baixando o zip, o NodeJS e rodando
+em seu computador.
 
 --- 
